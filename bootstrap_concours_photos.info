@@ -1,5 +1,5 @@
 name = Bootstrap photos
-description = Sous-thème photos basé sur Bootstrap.
+description = Theme photos based on Bootstrap.
 core = 7.x
 base theme = bootstrap
 
@@ -18,6 +18,9 @@ regions[sidebar_second] = 'Secondary'
 regions[footer]         = 'Footer'
 regions[page_top]       = 'Page top'
 regions[page_bottom]    = 'Page bottom'
+
+regions[menu_photos]    = 'menu_photos'
+regions[text_explication]    = 'text explication'
 
 
 ;;;;;;;;;;;;;;;;;;;;;
